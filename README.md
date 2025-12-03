@@ -1,6 +1,6 @@
 # 🍽️ Banco de Dados – Restaurante
-Projeto desenvolvido para prática de criação, manipulação e consulta de dados utilizando **MySQL**.
-O objetivo é simular o funcionamento de um sistema de restaurante, contendo funcionários, clientes, produtos, pedidos e informações detalhadas de cada produto.
+Este projeto foi criado com o propósito de exercitar conceitos de **SQL**, incluindo modelagem, criação de tabelas, inserção de dados, consultas condicionais e manipulação de registros.
+O banco simula o funcionamento de um restaurante, abrangendo funcionários, clientes, produtos, pedidos e informações complementares dos itens.
 
 ---
 
