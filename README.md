@@ -125,6 +125,16 @@ FROM funcionarios;
 
 ---
 
+## 🔧 Requisitos
+
+**MySQL 8.0+**
+
+**Charset recomendado: utf8mb4**
+
+**MySQL Workbench 8.0+ (opcional, mas recomendado)***
+
+---
+
 ## 🚀 Como Executar
 
 1. Abra o **MySQL Workbench**
@@ -138,16 +148,6 @@ FROM funcionarios;
 
 **Eduardo Ribeiro**  
 Projeto desenvolvido para estudos de SQL e modelagem de banco de dados.
-
----
-
-## 🔧 Requisitos
-
-**MySQL 8.0+**
-
-**Charset recomendado: utf8mb4**
-
-**MySQL Workbench 8.0+ (opcional, mas recomendado)***
 
 ---
 
